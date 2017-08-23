@@ -3,11 +3,11 @@
 
 +++
 
-# Current State of Reality
+#### Current State of Reality
 
 ![Cartoon](images/intro/cartoon.png)
 
-___
+---
 
 # Session's Agenda
 
