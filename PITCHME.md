@@ -1,7 +1,7 @@
 # Introduction to DevOps
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#6565ff">From Dockerfiles in GitHub to running apps with Kubernetes Orchestration</span>
 
-+++?image=images/test/Slide03.png
++++?image=images/intro/cartoon.png
 
 ---
 
