@@ -3,7 +3,7 @@
 
 +++
 
-?image=images/intro/cartoon.png
+![Image](images/intro/cartoon.png)
 
 ---
 
