@@ -5,7 +5,7 @@
 
 #### Current State of Reality
 
-<img src="images/intro/cartoon.png"/>
+![Image-Absolute](images/test/Side03.png)
 
 ---
 
