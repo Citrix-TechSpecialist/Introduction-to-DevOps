@@ -5,7 +5,7 @@
 
 #### Current State of Reality
 
-![Image-Relative](images/intro/cartoon.png)
+![Image-Absolute](images/intro/cartoon.png)
 
 ---
 
