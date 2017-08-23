@@ -7,20 +7,23 @@
 
 #### Session's Agenda
 
-#### 1. Changes in Operations within the Data Center
-* Current State
-* Future State
+1. Changes in Operations within the Data Center
 
-#### 2. Changes in Application Development
-* 2-Tier Applications
-* N-Tier Applications
+  * Current State
+  * Future State
 
-#### 3. Evolution of the Data Center
+2. Changes in Application Development
+  
+  * 2-Tier Applications
+  * N-Tier Applications
 
-#### 4. Tools for the Job
-* Code Repository
-* Container Framework 
-* Container Orchestration Platforms
-* Continuous Integration, Development, and Deployment
+3. Evolution of the Data Center
 
-#### 5. Holistic Overview
+4. Tools for the Job
+
+  * Code Repository
+  * Container Framework 
+  * Container Orchestration Platforms
+  * Continuous Integration, Development, and Deployment
+
+5. Holistic Overview
