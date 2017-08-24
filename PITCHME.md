@@ -56,8 +56,6 @@
 
 **To expidite code to delivery, companies have to become lean and agile.**
 
-**#1 goal for all companies: Streamline deployments and focus more on development**
-
   * Consolidate multiple operational teams
   * Segment out multiple development teams as independent units
   * Package code to deploy independent of underlying infrastructure
