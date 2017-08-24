@@ -84,18 +84,11 @@
 **Client Processing -- Server Storage**
 **Think Desktop Applications or Online Video Games**
 
-### Client
-
-Top most level of the application
-
-  * User Interface
-  * Presentation Services
-  * Application Services
-
-### Data Server
-  * Application Services
-  * Information sent
-  * Information replied
+Client | Data Server
+--- | ---
+Application Services | Application Services
+Presentation Services | Information Sent
+User Interface | Information Received 
 
 +++?image=images/applications/2-tier.png&size=contain
 
