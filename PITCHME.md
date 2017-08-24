@@ -12,12 +12,26 @@
   * Current State
   * Future State
 
+  ![operations](images/agenda/operations.png)
+
++++
+
+#### Session's Agenda
+
 2. Changes in Application Development
   
   * 2-Tier Applications
   * N-Tier Applications
 
++++
+
+#### Session's Agenda
+
 3. Evolution of the Data Center
+
++++
+
+#### Session's Agenda
 
 4. Tools for the Job
 
@@ -25,5 +39,8 @@
   * Container Framework 
   * Container Orchestration Platforms
   * Continuous Integration, Development, and Deployment
+
++++
+#### Session's Agenda
 
 5. Holistic Overview
