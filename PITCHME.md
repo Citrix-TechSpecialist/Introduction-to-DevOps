@@ -239,13 +239,45 @@ Continuous integration and deployment (CI/CD) automates building, testing, and s
   * `Deployment.yaml` : Defines how to deploy the service on the orchestration platform
 
 +++?image=images/tools/CICD1.png&size=contain
+
 +++?image=images/tools/CICD2.png&size=contain
+
 +++?image=images/tools/CICD3.png&size=contain
+
 +++?image=images/tools/CICD4.png&size=contain
+
 +++?image=images/tools/CICD5.png&size=contain
+
 +++?image=images/tools/CICD6.png&size=contain
+
 +++?image=images/tools/CICD7.png&size=contain
+
 +++?image=images/tools/CICD8.png&size=contain
+
++++?image=images/tools/CICD8.png&size=contain
+
++++
+
+## Want to make an update on a deployment? Just update the code and trigger the pipeline again.
+
++++?image=images/tools/CICD0.png&size=contain
+
++++?image=images/tools/CICD2.png&size=contain
+
++++?image=images/tools/CICD3.png&size=contain
+
++++?image=images/tools/CICD4.png&size=contain
+
++++?image=images/tools/CICD5.png&size=contain
+
++++?image=images/tools/CICD6.png&size=contain
+
++++?image=images/tools/CICD7.png&size=contain
+
++++?image=images/tools/CICD8.png&size=contain
+
++++?image=images/tools/CICD10.png&size=contain
+
 
 
 
