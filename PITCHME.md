@@ -178,12 +178,11 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 +++?image=images/datacenter/automated2.png&size=contain
 
 ---
-
 ## Tools for the Job
-
-  * Code Repository
-  * Container Framework 
-  * Container Orchestration Platforms
+ 
+  * Code Reposiroty
+  * Container Framework
+  * Container Orchestration
   * Continuous Integration and Development
 
 +++?image=images/agenda/tools.png&size=contain
