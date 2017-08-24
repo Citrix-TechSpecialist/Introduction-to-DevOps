@@ -286,8 +286,6 @@ Continuous integration and deployment (CI/CD) automates building, testing, and s
  
 +++?image=images/tools/overview1.png&size=contain
 
-+++?image=images/tools/overview2.png&size=contain
-
 +++?image=images/tools/overview3.png&size=contain
 
 +++?image=images/tools/overview4.png&size=contain
