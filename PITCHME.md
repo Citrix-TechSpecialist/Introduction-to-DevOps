@@ -181,10 +181,10 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ## Tools for the Job
 
-  * Code Repository
-  * Container Framework 
-  * Container Orchestration Platforms
-  * Continuous Integration, Development, and Deployment
+* Code Repository
+* Container Framework 
+* Container Orchestration Platforms
+* Continuous Integration, Development, and Deployment
 
 +++?image=images/agenda/tools.png&size=contain
 
