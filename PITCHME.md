@@ -183,7 +183,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
   * Code Reposiroty
   * Container Framework
   * Container Orchestration
-  * Continuous Integration and Development
+  * Continuous Integration / Development
 
 +++?image=images/agenda/tools.png&size=contain
 
