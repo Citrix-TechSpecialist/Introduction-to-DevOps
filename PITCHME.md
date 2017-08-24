@@ -22,8 +22,6 @@
   * Current State
   * Future State
 
-+++?image=images/agenda/operations.png&size=contain
-
 +++
 
 ### Changes in Application Development
@@ -55,5 +53,6 @@
 
 +++?image=images/agenda/tools.png&size=contain
 
---- 
+---?image=images/agenda/operations.png&size=contain
 
+# Changes in Operations
