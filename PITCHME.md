@@ -12,7 +12,7 @@
   * Current State
   * Future State
 
-![Image-Relative](images/agenda/operations.png)
+---?image=images/agenda/operations.png&size=contain
 
 +++
 
