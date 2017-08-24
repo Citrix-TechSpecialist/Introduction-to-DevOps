@@ -189,7 +189,55 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++?image=images/agenda/tools.png&size=contain
 
---- 
++++
+
+# Code Repository: GitHub
+
+**GitHub is a Version Control software that allows a team of people to work together, all using the same files.**
+
+* Store Code
+* Store Config Files (Describing Desired State)
+* Collaborate and merge code during development
+* API driven: Allows services to get your code and respond to changes
+
++++?image=images/tools/github.png&size=contain
+
++++
+
+# Container Framework: Docker
+
+***Docker containers are self-contained execution environments that share the kernel of the host operating system.*** 
+
+The result is something that feels like a virtual machine, but sheds all the weight and startup overhead of a guest operating system.
+
+A Docker container pre-packages code with all dependencies into a single *Docker Image*.
+
+You can define how to build your container image using a `Dockerfile` that you can store in GitHub.
+
++++?image=images/tools/docker.png&size=contain
+
++++
+
+# Container Orchestration: Kubernetes
+
+**Kubernetes is an open-source compose able platform designed to oversee container life cycle management.**
+
+* Kubernetes provides infrastructure for containers via:
+  * Scheduling, running, and orchestrating containers on compute resources
+  * Serving as a platform for automating rolling deployments, scaling, and life-cycle operations 
+
+*Think of Kubernetes the brains you can offload the “deployment tasks” for any microservices based app.*
+
+Simply present a .yaml file describing your desired state and let Kubernetes do the rest.
+
++++
+
+
+
+
+
+
+
 
 ### Changes in Data Center Operations
   
