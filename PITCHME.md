@@ -191,7 +191,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ## Code Repository: GitHub
 
-**GitHub is a Version Control software that allows a team of people to work together, all using the same files.**
+**GitHub is a Version Control software allowing teams of people to work together, all using the same files.**
 
 * Store Code
 * Store Config Files (Describing Desired State)
@@ -204,11 +204,13 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ## Container Framework: Docker
 
-**Docker containers are like a virtual machines, but sheds all the weight and startup overhead of a guest operating system.**
+**Docker containers are like a virtual machines, but sheds all the weight and startup overhead of a guest OS.**
 
 * A **Docker container** pre-packages code with all dependencies into a single `Docker Image`.
 
 * Build a container image using a `Dockerfile` that you can store in GitHub.
+
+* Store the docker image in docker registry (Docker Hub).
 
 +++?image=images/tools/docker.png&size=contain
 
