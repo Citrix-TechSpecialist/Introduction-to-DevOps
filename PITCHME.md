@@ -17,7 +17,7 @@
 
 ---
 
-# Changes in Data Center Operations
+## Changes in Data Center Operations
   
   * Current State
   * Future State
@@ -70,7 +70,7 @@
 
 ---
 
-# Changes in Application Development
+## Changes in Application Development
   
   * 2-Tier Applications
   * N-Tier Applications
@@ -109,7 +109,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ---
 
-# Evolution of the Data Center
+## Evolution of the Data Center
  
   * Baremetal
   * Virtual
@@ -179,7 +179,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ---
 
-# Tools for the Job
+## Tools for the Job
 
   * Code Repository
   * Container Framework 
