@@ -254,11 +254,13 @@ Continuous integration and deployment (CI/CD) automates building, testing, and s
 
 +++?image=images/tools/CICD8.png&size=contain
 
-+++?image=images/tools/CICD8.png&size=contain
++++?image=images/tools/CICD9.png&size=contain
 
 +++
 
-## Want to make an update on a deployment? Just update the code and trigger the pipeline again.
+## Want to make an update on a deployment? 
+
+## Just update the code and trigger the pipeline again.
 
 +++?image=images/tools/CICD0.png&size=contain
 
@@ -278,15 +280,21 @@ Continuous integration and deployment (CI/CD) automates building, testing, and s
 
 +++?image=images/tools/CICD10.png&size=contain
 
+---
 
+## A Hollistic Overview of a modern workflow
+ 
++++?image=images/tools/overview1.png&size=contain
 
++++?image=images/tools/overview2.png&size=contain
 
++++?image=images/tools/overview3.png&size=contain
 
++++?image=images/tools/overview4.png&size=contain
 
+--- 
 
+### Demo
 
+## Enough Talk. More Action.
 
-### Changes in Data Center Operations
-  
-  * Current State
-  * Future State
