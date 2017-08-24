@@ -12,7 +12,7 @@
   * Current State
   * Future State
 
-  ![Image-Absolute](./images/agenda/operations.png)
+![Image-Relative](images/agenda/operations.png)
 
 +++
 
