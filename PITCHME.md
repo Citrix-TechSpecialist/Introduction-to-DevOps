@@ -27,7 +27,7 @@
 
 +++
 
-## Current State
+### Current State
 
 **Traditional methodologies are characterized by a sequential series of steps:**
 
@@ -41,7 +41,7 @@
 
 +++
 
-## Current State
+### Current State
 
 **Traditional Teams are fragmented and divided:**
 
@@ -52,7 +52,7 @@
 
 +++
 
-## Future State
+### Future State
 
 **Expedite code to production with lean and agile operations.**
 
@@ -79,7 +79,7 @@
 
 +++
 
-## 2-Tier Applications
+### 2-Tier Applications
 
 **Client Processing -- Server Storage**
 **Think Desktop Applications or Online Video Games**
@@ -94,7 +94,7 @@ User Interface | Information Received
 
 +++
 
-## Modern N-Tier Applications
+### Modern N-Tier Applications
 
 **Separate Presentation UI, Business Logic, and DB Storage**
 **Think Web Applications and SaaS**
@@ -120,7 +120,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-## Physically Defined Data Center
+### Physically Defined Data Center
 
 * Hardware centric
 * Requires physical labor
@@ -134,7 +134,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-## Virtual Data Center
+### Virtual Data Center
 
 * Software defined resources
 * Pooled Resources
@@ -149,7 +149,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-## Cloud Data Center
+### Cloud Data Center
 
 * Subscription based infrastructure components
 * Multi tenancy
@@ -163,7 +163,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-## Automated Data Center
+### Automated Data Center
 
 * Orchestrated Infrastructure
 * Orchestrated Application Deployments
@@ -189,7 +189,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-## Code Repository: GitHub
+### Code Repository: GitHub
 
 **GitHub is a Version Control software allowing teams of people to work together, all using the same files.**
 
@@ -202,21 +202,21 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-## Container Framework: Docker
+### Container Framework: Docker
 
 **Docker containers are like a virtual machines, but sheds all the weight and startup overhead of a guest OS.**
 
-* A **Docker container** pre-packages code with all dependencies into a single `Docker Image`.
+* **Docker containers** pre-package code with all dependencies into a single `Docker Image`.
 
-* Build a container image using a `Dockerfile` that you can store in GitHub.
+* Build a `Docker Image` using a `Dockerfile` that you can store in GitHub.
 
-* Store the docker image in docker registry (Docker Hub).
+* Store the `Docker Image` in docker registry (Docker Hub).
 
 +++?image=images/tools/docker.png&size=contain
 
 +++
 
-## Container Orchestration: Kubernetes
+### Container Orchestration: Kubernetes
 
 **Kubernetes is an open-source compose able platform designed to oversee container life cycle management.**
 
