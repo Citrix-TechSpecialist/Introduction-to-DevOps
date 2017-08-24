@@ -96,7 +96,7 @@ User Interface | Information Received
 
 ## Modern N-Tier Applications
 
-**Seperate Presentation UI, Business Logic, and DB Storage**
+**Separate Presentation UI, Business Logic, and DB Storage**
 **Think Web Applications and SaaS**
 
 Client Tier | Logic Tier | Data Tier
