@@ -3,7 +3,12 @@
 
 +++?image=images/intro/cartoon.png&size=contain
 
----?image=images/agenda/operations.png&size=contain
+---
+
+![]()            |  Session's Agenda
+:-------------------------:|:-------------------------:
+![](images/agenda/operations.png)  |   Changes in Operations within the Data Center
+
 
 #### Session's Agenda
 
@@ -12,7 +17,7 @@
   * Current State
   * Future State
 
-+++
++++?image=images/agenda/operations.png&size=contain
 
 #### Session's Agenda
 
