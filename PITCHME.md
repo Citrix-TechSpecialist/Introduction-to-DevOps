@@ -206,13 +206,11 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 #### Container Framework: Docker
 
-***Docker containers are self-contained execution environments that share the kernel of the host operating system.*** 
+**Docker containers are like a virtual machines, but sheds all the weight and startup overhead of a guest operating system.**
 
-The result is something that feels like a virtual machine, but sheds all the weight and startup overhead of a guest operating system.
+* A **Docker container** pre-packages code with all dependencies into a single `Docker Image`.
 
-A Docker container pre-packages code with all dependencies into a single *Docker Image*.
-
-You can define how to build your container image using a `Dockerfile` that you can store in GitHub.
+* Build a container image using a `Dockerfile` that you can store in GitHub.
 
 +++?image=images/tools/docker.png&size=contain
 
