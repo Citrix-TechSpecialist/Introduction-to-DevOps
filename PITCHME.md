@@ -230,7 +230,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ### CI/CD: CodeFresh
 
-Continuous integration and continuous deployment (CI/CD) automates building, testing, and storing of Docker images to a registry by parsing files from GitHub:
+Continuous integration and deployment (CI/CD) automates building, testing, and storing of Docker images to a registry by parsing files from GitHub:
 
   * `Dockerfile` : Recipe package and build a service into a container.
 
