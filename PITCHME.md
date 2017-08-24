@@ -204,7 +204,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-# Container Framework: Docker
+#### Container Framework: Docker
 
 ***Docker containers are self-contained execution environments that share the kernel of the host operating system.*** 
 
@@ -218,7 +218,7 @@ You can define how to build your container image using a `Dockerfile` that you c
 
 +++
 
-# Container Orchestration: Kubernetes
+#### Container Orchestration: Kubernetes
 
 **Kubernetes is an open-source compose able platform designed to oversee container life cycle management.**
 
@@ -228,7 +228,7 @@ You can define how to build your container image using a `Dockerfile` that you c
 
 *Think of Kubernetes the brains you can offload the “deployment tasks” for any microservices based app.*
 
-Simply present a .yaml file describing your desired state and let Kubernetes do the rest.
+Simply present a `.yaml` file describing your desired state and let Kubernetes do the rest.
 
 +++
 
