@@ -8,16 +8,16 @@
 
 ## Observed changes in...
 
-  * Operations
-  * Applications
+  * Data Center Operations 
+  * Application Development
   * Infrastructure
-  * Tools
+  * Automation Tools
 
 +++?image=images/agenda/overview.png&size=contain
 
 ---
 
-### Changes in Operations
+### Changes in Data Center Operations
   
   * Current State
   * Future State
@@ -27,9 +27,9 @@
 
 +++
 
-#### Current State
+## Current State
 
-Traditional methodologies are characterized by a sequential series of steps:
+**Traditional methodologies are characterized by a sequential series of steps:**
 
   * Requirement Definition (Decide)
   * Planning (Design)
@@ -39,17 +39,38 @@ Traditional methodologies are characterized by a sequential series of steps:
 
 +++?image=images/operations/current-state.png&size=contain
 
++++
+
+## Current State
+
+**Traditional Teams are fragmented and divided:**
+
+  * Multiple Development Teams
+  * Multiple Operation and Infrastructure Teams 
+
++++?image=images/operations/fragmented-state.png&size=contain
+
++++
+
+## Future State
+
+**To expidite code to delivery, companies have to become lean and agile.**
+
+**#1 goal for all companies: Streamline deployments and focus more on development**
+
+  * Consolidate multiple operational teams
+  * Segment out multiple development teams as independent units
+  * Package code to deploy independent of underlying infrastructure
+  * Automate application lifecycles with automation tools -- not ad-hoc scripts
+  * Streamline deployments and focus more on development
+
++++?image=images/operations/future-state.png&size=contain
+
++++?image=images/operations/devops-state.png&size=contain
+
++++?image=images/operations/CICD-state.png&size=contain
 
 ---
-
-
-
-
-
-
-
-
-
 
 ### Changes in Application Development
   
@@ -59,6 +80,26 @@ Traditional methodologies are characterized by a sequential series of steps:
 +++?image=images/agenda/applications.png&size=contain
 
 +++
+
+## 2-Tier Applications
+
+**Client Processing -- Server Storage**
+**Think Desktop Applications or Online Video Games**
+
+### Client
+
+Top most level of the application
+
+  * User Interface
+  * Presentation Services
+  * Application Services
+
+### Data Server
+  * Application Services
+  * Information sent
+  * Information replied
+
++++?image=images/applications/2-tier.png&size=contain
 
 ### Evolution of the Data Center
  
@@ -82,3 +123,7 @@ Traditional methodologies are characterized by a sequential series of steps:
 
 --- 
 
+### Changes in Data Center Operations
+  
+  * Current State
+  * Future State
