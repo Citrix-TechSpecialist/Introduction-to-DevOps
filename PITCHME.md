@@ -5,10 +5,11 @@
 
 ---
 
-![]()            |  Session's Agenda
+Session's            |  Agenda
 :-------------------------:|:-------------------------:
 ![](images/agenda/operations.png)  |   Changes in Operations within the Data Center
 
+---
 
 #### Session's Agenda
 
