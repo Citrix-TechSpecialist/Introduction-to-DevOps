@@ -15,14 +15,41 @@
 
 +++?image=images/agenda/overview.png&size=contain
 
-+++
+---
 
 ### Changes in Operations
   
   * Current State
   * Future State
 
+
++++?image=images/agenda/operations.png&size=contain
+
 +++
+
+#### Current State
+
+Traditional methodologies are characterized by a sequential series of steps:
+
+  * Requirement Definition (Decide)
+  * Planning (Design)
+  * Building (Develop)
+  * Testing (QA)
+  * Deployment
+
++++?image=images/operations/current-state.png&size=contain
+
+
+---
+
+
+
+
+
+
+
+
+
 
 ### Changes in Application Development
   
@@ -53,6 +80,5 @@
 
 +++?image=images/agenda/tools.png&size=contain
 
----?image=images/agenda/operations.png&size=contain
+--- 
 
-# Changes in Operations
