@@ -100,10 +100,10 @@ User Interface | Information Received
 
 Client Tier | Logic Tier | Data Tier
 --- | ---
-Top most level of the application | Processes commands | Stores Information 
-Translates tasks and results into comprehensible information | Makes logical decisions | Information Sent
-User Interface | Moves processed data between tiers
- | Information Received 
+user Interface | Processes commands | Stores data 
+Presents Translated Data | Makes logical decisions | Sends Data
+Light Weight | Proxies data between tiers
+ | Receives Data 
 
 
 ### Evolution of the Data Center
