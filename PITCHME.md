@@ -6,7 +6,12 @@
 ---
 # Session's Agenda
 
-Changes in...
+## Changes in...
+
+  * Operations
+  * Applications
+  * Infrastructure
+  * Tools
 
 +++?image=images/agenda/overview.png&size=contain
 
