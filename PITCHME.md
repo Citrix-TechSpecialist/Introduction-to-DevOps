@@ -10,56 +10,53 @@ Changes in...
 
 +++?image=images/agenda/overview.png&size=contain
 
++++
+
+### Session's Agenda
+
+#### Changes in Operations
+  
+  * Current State
+  * Future State
+
 +++?image=images/agenda/operations.png&size=contain
 
 +++
 
-#### Session's Agenda
+### Session's Agenda
 
-1 Changes in Operations
+#### Changes in Application Development
   
-  * Current State
-  * Future State
+  * 2-Tier Applications
+  * N-Tier Applications
 
 +++?image=images/agenda/applications.png&size=contain
 
 +++
 
-#### Session's Agenda
+### Session's Agenda
 
-3 Changes in Application Development
-  
-  * 2-Tier Applications
-  * N-Tier Applications
-
-+++?image=images/agenda/datacenter.png&size=contain
-
-+++
-
-#### Session's Agenda
-
-4 Evolution of the Data Center
-  
+#### Evolution of the Data Center
+ 
   * Baremetal
   * Virtual
   * Cloud
   * Automated (IaC)
 
-+++?image=images/agenda/tools.png&size=contain
++++?image=images/agenda/datacenter.png&size=contain
 
 +++
 
-#### Session's Agenda
+### Session's Agenda
 
-5 Tools for the Job
+#### Tools for the Job
 
   * Code Repository
   * Container Framework 
   * Container Orchestration Platforms
   * Continuous Integration, Development, and Deployment
 
-+++
++++?image=images/agenda/tools.png&size=contain
 
-#### Session's Agenda
+--- 
 
-5. Holistic Overview
