@@ -232,7 +232,9 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 Continuous integration and continuous deployment (CI/CD) automates building, testing, and storing of Docker images to a registry by parsing files from GitHub:
 
-  * `Dockerfile` : Recipe package and build a service into a container.
+<span style="color:gray; font-size:0.7em">`Dockerfile` : Recipe package and build a service into a container.<b>Relative URL</b></span>
+
+  * 
 
   * `Codefresh.yaml` : Run a series of test for QA, Build, and Testing
 
