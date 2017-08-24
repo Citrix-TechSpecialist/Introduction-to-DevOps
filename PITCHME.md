@@ -97,13 +97,15 @@ User Interface | Information Received
 ## Modern N-Tier Applications
 
 **Seperate Presentation UI, Business Logic, and DB Storage**
+**Think Web Applications and SaaS**
 
 Client Tier | Logic Tier | Data Tier
 --- | ---
 user Interface | Processes commands | Stores data 
 Presents Translated Data | Makes logical decisions | Sends Data
-Light Weight | Proxies data between tiers
- | Receives Data 
+Light Weight | Proxies data between tiers | Receives Data 
+
+
 
 
 ### Evolution of the Data Center
