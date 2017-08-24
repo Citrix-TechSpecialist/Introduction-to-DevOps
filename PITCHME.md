@@ -17,7 +17,7 @@
 
 ---
 
-### Changes in Data Center Operations
+# Changes in Data Center Operations
   
   * Current State
   * Future State
@@ -70,7 +70,7 @@
 
 ---
 
-### Changes in Application Development
+# Changes in Application Development
   
   * 2-Tier Applications
   * N-Tier Applications
@@ -109,7 +109,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ---
 
-### Evolution of the Data Center
+# Evolution of the Data Center
  
   * Baremetal
   * Virtual
@@ -120,7 +120,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-# Physically Defined Data Center
+## Physically Defined Data Center
 
 * Hardware centric
 * Requires physical labor
@@ -134,7 +134,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-# Virtual Data Center
+## Virtual Data Center
 
 * Software defined resources
 * Pooled Resources
@@ -149,7 +149,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-# Cloud Data Center
+## Cloud Data Center
 
 * Subscription based infrastructure components
 * Multi tenancy
@@ -163,7 +163,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-# Automated Data Center
+## Automated Data Center
 
 * Orchestrated Infrastructure
 * Orchestrated Application Deployments
@@ -179,7 +179,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ---
 
-### Tools for the Job
+# Tools for the Job
 
   * Code Repository
   * Container Framework 
@@ -190,7 +190,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-### Code Repository: GitHub
+## Code Repository: GitHub
 
 **GitHub is a Version Control software that allows a team of people to work together, all using the same files.**
 
@@ -203,7 +203,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-### Container Framework: Docker
+## Container Framework: Docker
 
 **Docker containers are like a virtual machines, but sheds all the weight and startup overhead of a guest operating system.**
 
@@ -215,7 +215,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 +++
 
-### Container Orchestration: Kubernetes
+## Container Orchestration: Kubernetes
 
 **Kubernetes is an open-source compose able platform designed to oversee container life cycle management.**
 
