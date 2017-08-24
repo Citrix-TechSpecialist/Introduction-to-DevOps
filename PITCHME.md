@@ -54,7 +54,7 @@
 
 ## Future State
 
-**To expidite code to delivery, companies have to become lean and agile.**
+**Expedite code to production with lean and agile operations.**
 
   * Consolidate multiple operational teams
   * Segment out multiple development teams as independent units
@@ -91,6 +91,20 @@ Presentation Services | Information Sent
 User Interface | Information Received 
 
 +++?image=images/applications/2-tier.png&size=contain
+
++++
+
+## Modern N-Tier Applications
+
+**Seperate Presentation UI, Business Logic, and DB Storage**
+
+Client Tier | Logic Tier | Data Tier
+--- | ---
+Top most level of the application | Processes commands | Stores Information 
+Translates tasks and results into comprehensible information | Makes logical decisions | Information Sent
+User Interface | Moves processed data between tiers
+ | Information Received 
+
 
 ### Evolution of the Data Center
  
