@@ -218,7 +218,7 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 ### Container Orchestration: Kubernetes
 
-**Kubernetes is an open-source compose able platform designed to oversee container life cycle management.**
+**Kubernetes is a compose-able platform designed to oversee container life cycle management.**
 
 * Kubernetes provides infrastructure for containers by *scheduling*, *running*, and *orchestrating* containers on compute resources.
   
