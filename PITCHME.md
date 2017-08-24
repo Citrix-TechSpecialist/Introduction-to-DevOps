@@ -220,13 +220,9 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 **Kubernetes is an open-source compose able platform designed to oversee container life cycle management.**
 
-* Kubernetes provides infrastructure for containers via:
-  * Scheduling, running, and orchestrating containers on compute resources
-  * Serving as a platform for automating rolling deployments, scaling, and life-cycle operations 
-
-*Think of Kubernetes the brains you can offload the “deployment tasks” for any microservices based app.*
-
-Simply present a `.yaml` file describing your desired state and let Kubernetes do the rest.
+* Kubernetes provides infrastructure for containers by *scheduling*, *running*, and *orchestrating* containers on compute resources.
+  
+*Think of Kubernetes the brains you can offload the “deployment tasks” for any microservices based app. by presenting a simple `yaml` file*
 
 +++
 
