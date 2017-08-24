@@ -101,12 +101,13 @@ User Interface | Information Received
 
 Client Tier | Logic Tier | Data Tier
 --- | ---
-user Interface | Processes commands | Stores data 
-Presents Translated Data | Makes logical decisions | Sends Data
-Light Weight | Proxies data between tiers | Receives Data 
+User Interface | Processes commands | Stores data 
+Presents Translated Data | Makes Logical Decisions | Sends Data
+Light Weight | Proxies Data Between Tiers | Receives Data 
 
++++?image=images/applications/n-tier.png&size=contain
 
-
+---
 
 ### Evolution of the Data Center
  
@@ -119,7 +120,67 @@ Light Weight | Proxies data between tiers | Receives Data
 
 +++
 
+# Physically Defined Data Center
+
+* Hardware centric
+* Requires physical labor
+* Potentially under-utilize resources
+* Software is closest to processing
+* Results in multiple functional silos
+
++++?image=images/datacenter/baremetal1.png&size=contain
+
++++?image=images/datacenter/baremetal2.png&size=contain
+
++++
+
+# Virtual Data Center
+
+* Software defined resources
+* Pooled Resources
+* Faster Prep time (templates)
+* Still a manual process of deploying infrastructure
+* Manually configure infrastructure components
+* Better Storage Management (Network)
+
++++?image=images/datacenter/virtual1.png&size=contain
+
++++?image=images/datacenter/virtual2.png&size=contain
+
++++
+
+# Cloud Data Center
+
+* Subscription based infrastructure components
+* Multi tenancy
+* API end points for orchestration
+* Software Defined Networking and Storage
+* Application operations and isolation still required at the OS level
+
++++?image=images/datacenter/cloud1.png&size=contain
+
++++?image=images/datacenter/cloud2.png&size=contain
+
++++
+
+# Automated Data Center
+
+* Orchestrated Infrastructure
+* Orchestrated Application Deployments
+* Developer + Operators use same tools
+* Application isolation at the operating system level
+* API and Code centric
+* Many Abstraction layers
+* Tools are still evolving
+
++++?image=images/datacenter/automated1.png&size=contain
+
++++?image=images/datacenter/automated2.png&size=contain
+
+---
+
 ### Tools for the Job
+**Creating a DevOps ready Data Center**
 
   * Code Repository
   * Container Framework 
