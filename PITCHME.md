@@ -7,12 +7,12 @@
 
 #### Session's Agenda
 
-1. Changes in Operations within the Data Center
+1 Changes in Operations within the Data Center
 
   * Current State
   * Future State
 
-  ![Image-Absolute](images/agenda/operations.png)
+  ![Image-Absolute](./images/agenda/operations.png)
 
 +++
 
