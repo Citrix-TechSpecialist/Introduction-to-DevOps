@@ -222,9 +222,32 @@ Light Weight | Proxies Data Between Tiers | Receives Data
 
 * Kubernetes provides infrastructure for containers by *scheduling*, *running*, and *orchestrating* containers on compute resources.
   
-*Think of Kubernetes the brains you can offload the “deployment tasks” for any microservices based app. by presenting a simple `yaml` file*
+* Think of Kubernetes the brains you can offload the “deployment tasks” for any microservices based app. by presenting a simple `yaml` file
+
++++?image=images/tools/kubernetes.png&size=contain
 
 +++
+
+### Continuous Integration, Development, and Deployment: CodeFresh
+
+Continuous integration and continuous deployment (CI/CD) can allow automated building, testing, and storing of Docker images to a Docker registry.
+
+CodeFresh can use: 
+
+  * `Dockerfile` : Recipe package and build a service into a container.
+
+  * `Codefresh.yaml` : Run a series of test for QA, Build, and Testing
+
+  * `Deployment.yaml` : Defines how to deploy the service on the orchestration platform
+
++++?image=images/tools/CICD1.png&size=contain
++++?image=images/tools/CICD2.png&size=contain
++++?image=images/tools/CICD3.png&size=contain
++++?image=images/tools/CICD4.png&size=contain
++++?image=images/tools/CICD5.png&size=contain
++++?image=images/tools/CICD6.png&size=contain
++++?image=images/tools/CICD7.png&size=contain
++++?image=images/tools/CICD8.png&size=contain
 
 
 
