@@ -4,9 +4,9 @@
 +++?image=images/intro/cartoon.png&size=contain
 
 ---
-# Session's Agenda
+# Today's Agenda
 
-## Changes in...
+## Observed changes in...
 
   * Operations
   * Applications
@@ -17,9 +17,7 @@
 
 +++
 
-### Session's Agenda
-
-#### Changes in Operations
+### Changes in Operations
   
   * Current State
   * Future State
@@ -28,9 +26,7 @@
 
 +++
 
-### Session's Agenda
-
-#### Changes in Application Development
+### Changes in Application Development
   
   * 2-Tier Applications
   * N-Tier Applications
@@ -39,9 +35,7 @@
 
 +++
 
-### Session's Agenda
-
-#### Evolution of the Data Center
+### Evolution of the Data Center
  
   * Baremetal
   * Virtual
@@ -52,9 +46,7 @@
 
 +++
 
-### Session's Agenda
-
-#### Tools for the Job
+### Tools for the Job
 
   * Code Repository
   * Container Framework 
